@@ -6,7 +6,7 @@
 ## Demonstração
 
 <p>
-    <img width="500" src="./assets/demonstracao.gif"></img>
+    <img width="500" src="./src/assets/demostracao.gif"></img>
 </p>
 
 ## Deploy
